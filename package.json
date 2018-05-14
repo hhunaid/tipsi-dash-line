@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/tipsi/tipsi-dash-line#readme",  
   "peerDependencies": {
-    "react-native": ">=0.40"
+    "react-native": ">=0.40",
+    "prop-types": "^15.6.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
