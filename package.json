@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tipsi/tipsi-dash-line.git"
+    "url": "git://git@github.com/tipsi/tipsi-dash-line.git"
   },
   "keywords": [
     "react",
